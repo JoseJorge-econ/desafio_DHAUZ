@@ -1,0 +1,3 @@
+Utilizando um recorte temporal ao invés de uma seleção aleatoria se corre o risco de perder padrões que se manifestam por todo o invervalo dos dados. 
+Além disso, os modelos aplicados foram de classficação sem levar em conta sazonalidade ou outros aspectos utilizados em series temporais.
+Desta forma, a seleção aleatoria produz melhores resultados para o modelo escolhido. 
